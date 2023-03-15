@@ -1,1 +1,2 @@
 the first example that explain merge conflict
+here we are fucking go
